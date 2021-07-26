@@ -2,15 +2,24 @@
   "posts": [
     {
       "id": 1,
-      "title": "Post 1"
+      "title": "Post 1",
+      "date": "2021-07-01",
+      "slug": "post-1",
+      "content": "blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah"
     },
     {
       "id": 2,
-      "title": "Post 2"
+      "title": "Post 2",
+      "date": "2021-07-02",
+      "slug": "post-2",
+      "content": "blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah"
     },
     {
       "id": 3,
-      "title": "Post 3"
+      "title": "Post 3",
+      "date": "2021-07-02",
+      "slug": "post-3",
+      "content": "blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah blah"
     }
   ],
   "comments": [
